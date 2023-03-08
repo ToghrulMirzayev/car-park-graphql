@@ -6,6 +6,7 @@ Car Park is fun project to demonstrate a simple GraphQL API implementation
 [![Python](https://img.shields.io/badge/Python_3.8+-blue.svg)]()
 [![Jinja2](https://img.shields.io/badge/Jinja2-blue.svg)]()
 [![Flask](https://img.shields.io/badge/Flask-yellow.svg)]()
+[![Flask](https://img.shields.io/badge/Graphene-yellow.svg)]()
 
 ## Getting Started Guide:
 * Clone this repo to your local drive
